@@ -67,7 +67,6 @@ body {
 /*  Home */
 
 .home {
-  margin-top: -100px;
   background: url("../images/background-landing.jpeg");
   background-size: cover;
 }
