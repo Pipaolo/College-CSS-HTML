@@ -1,0 +1,102 @@
+/* Universal Selectors */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Navigation Bar */
+.navigation-bar {
+  display: flex;
+  flex-wrap: wrap;
+
+  width: 100%;
+  padding: 0.5em 1em;
+  align-items: center;
+  justify-content: space-between;
+}
+.navigation-bar span {
+  color: #fc85ae;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+.navigation-bar {
+  display: flex;
+  background-color: #2b354a;
+}
+.navigation-bar ul {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+}
+.navigation-bar li {
+  margin-top: 1em;
+  /* padding-left: 0.5em; */
+  padding-right: 0.5em;
+}
+.nav-link {
+  color: white;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #fc85ae;
+}
+
+/* END Navigation Bar */
+
+/* Universal Styles */
+.container {
+  height: 100vh;
+  width: 100%;
+}
+/* End of Universal */
+
+/*  Home */
+.home {
+  margin-top: 50px;
+  background: url("../images/background-landing.jpeg");
+  background-size: cover;
+}
+.home .hero-overlay {
+  background: rgba(48, 58, 82, 0.8);
+  height: 100vh;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.hero-title {
+  font-weight: bold;
+  font-size: 4.8rem;
+  color: #fc85ae;
+}
+.hero-wrapper p {
+  font-size: 1.2rem;
+  font-weight: 700;
+}
+.hero-wrapper button {
+  margin: 1.8em 0;
+  border: 4px solid #fc85ae;
+  background: none;
+  padding: 0.5em 1.2em;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  transition-duration: 0.5s;
+}
+
+/* End HOME */
