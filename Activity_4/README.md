@@ -1,8 +1,8 @@
 # Activity 4
 
 - [x] Add Movies (5)
-- [ ] Add Videos (5)
-- [ ] Add Images (10)
+- [x] Add Videos (5)
+- [x] Add Images (10)
 - [ ] Style Webpage
 
 ### Movie Links
