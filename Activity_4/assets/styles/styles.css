@@ -1,0 +1,27 @@
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  background-color: #2f3e46;
+  padding: 1em;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  background-color: #52796f;
+  border-radius: 20px;
+}
+
+.title {
+  font-family: "Bebas Neue", cursive;
+  color: #cad2c5;
+  font-size: 1.25rem;
+}

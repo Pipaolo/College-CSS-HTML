@@ -13,6 +13,7 @@
     {
       "title": "Steamboat Bill, Jr.",
       "url": "https://www.youtube.com/embed/BUNZPHbwA-U",
+      "thumbnail": "http://i3.ytimg.com/vi/BUNZPHbwA-U/maxresdefault.jpg",
       "publishedAt": "1928",
       "genre": "Silent, Action, Comedy",
       "duration": 77
@@ -20,6 +21,7 @@
     {
       "title": "Sunrise",
       "url": "https://www.youtube.com/embed/6NayFytQeBE",
+      "thumbnail": "http://i3.ytimg.com/vi/6NayFytQeBE/maxresdefault.jpg",
       "publishedAt": "1927",
       "genre": "Silent, Romance, Thriller",
       "duration": 110
@@ -27,6 +29,7 @@
     {
       "title": "Our Hospitality",
       "url": "https://www.youtube.com/embed/cRNObtP_Fgo",
+      "thumbnail": "http://i3.ytimg.com/vi/cRNObtP_Fgo/maxresdefault.jpg",
       "publishedAt": "1923",
       "genre": "Silent, Family, Comedy",
       "duration": 74
@@ -34,6 +37,7 @@
     {
       "title": "The General",
       "url": "https://www.youtube.com/embed/1b24wqhy0Zo",
+      "thumbnail": "http://i3.ytimg.com/vi/1b24wqhy0Zo/maxresdefault.jpg",
       "publishedAt": "1926",
       "genre": "Silent, Comedy, Romance",
       "duration": 79
@@ -41,6 +45,7 @@
     {
       "title": "Safety Last",
       "url": "https://www.youtube.com/embed/V-XZWZVVhvQ",
+      "thumbnail": "http://i3.ytimg.com/vi/V-XZWZVVhvQ/hqdefault.jpg",
       "publishedAt": "1923",
       "genre": "Silent, Comedy, Adventure",
       "duration": 80
@@ -56,11 +61,12 @@
   "Videos": [
     {
       "title": "[K A R L S O N V I B E]",
-      "url": "youtube.com/embed/FtE6SV_1wu4",
+      "url": "https://www.youtube.com/embed/FtE6SV_1wu4",
       "uploader": {
         "username": "Dani2",
         "channelLink": "https://www.youtube.com/channel/UCzmtKpQQyZ-9ZNY_bbFtVHw"
       },
+      "thumbnail": "http://i3.ytimg.com/vi/FtE6SV_1wu4/maxresdefault.jpg",
       "likeCount": 137000,
       "dislikeCount": 710,
       "publishedAt": "04/24/2020",
@@ -73,6 +79,7 @@
         "username": "Pukekura",
         "channelLink": "https://www.youtube.com/channel/UCaMPaTOiAmvCAU_f4wFAYUw"
       },
+      "thumbnail": "http://i3.ytimg.com/vi/PLb720ZPcQI/hqdefault.jpg",
       "likeCount": 443000,
       "dislikeCount": 3800,
       "publishedAt": "05/09/2019",
@@ -85,6 +92,7 @@
         "username": "bill wurtz",
         "channelLink": "https://www.youtube.com/channel/UCq6aw03lNILzV96UvEAASfQ"
       },
+      "thumbnail": "http://i3.ytimg.com/vi/JAr2rUbgPzE/maxresdefault.jpg",
       "likeCount": 480000,
       "dislikeCount": 3000,
       "publishedAt": "06/14/2016",
@@ -97,6 +105,7 @@
         "username": "SethEverman",
         "channelLink": "https://www.youtube.com/channel/UCoNRSwYHJdy-yV1b82ZdHfQ"
       },
+      "thumbnail": "http://i3.ytimg.com/vi/FoSe_KAQEr8/maxresdefault.jpg",
       "likeCount": 721000,
       "dislikeCount": 4000,
       "publishedAt": "09/25/2020",
@@ -109,6 +118,7 @@
         "username": "JRM",
         "channelLink": "https://www.youtube.com/channel/UCgLwwXVfQg1WQruWTePzRvw"
       },
+      "thumbnail": "http://i3.ytimg.com/vi/NfUeUCErCmQ/maxresdefault.jpg",
       "likeCount": 537000,
       "dislikeCount": 12000,
       "publishedAt": "05/22/2019",
