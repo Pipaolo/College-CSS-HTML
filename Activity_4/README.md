@@ -3,7 +3,7 @@
 - [x] Add Movies (5)
 - [x] Add Videos (5)
 - [x] Add Images (10)
-- [ ] Style Webpage
+- [x] Style Webpage
 
 ### Movie Links
 
