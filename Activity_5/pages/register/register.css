@@ -1,0 +1,98 @@
+html {
+  scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+body {
+  height: 100vh;
+  background-color: black;
+}
+
+.register-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.register-header {
+  text-shadow: -1px -1px 0 teal, 1px -1px 0 teal, -1px 1px 0 teal,
+    1px 1px 0 teal;
+  margin-bottom: 2em;
+}
+
+.register-form-wrapper {
+  height: 500px;
+  width: 500px;
+  border: teal 1px solid;
+  border-radius: 20px;
+  padding: 1em;
+}
+.register-form {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.form-container input,
+input:focus {
+  background: none;
+  outline: none;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+.input-container input {
+  border-radius: 10px;
+  border: none;
+  padding: 1em;
+  margin-bottom: 1em;
+  font-size: 1rem;
+  color: white;
+  border: teal 2px solid;
+  background: none;
+}
+.input-container label {
+  color: white;
+  margin-bottom: 0.8em;
+}
+
+.register-form button {
+  border: none;
+  border-radius: 10px;
+  background: none;
+  border: teal 1px solid;
+  color: white;
+  padding: 1em;
+  transition: border 300ms;
+}
+.register-form button:hover {
+  outline: none;
+  border: teal 4px solid;
+}
+
+.back-to-home {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  margin: 1em;
+}
+
+.back-to-home a {
+  text-decoration: none;
+  color: black;
+  text-shadow: -1px -1px 0 teal, 1px -1px 0 teal, -1px 1px 0 teal,
+    1px 1px 0 teal;
+  font-size: 1.2rem;
+}
